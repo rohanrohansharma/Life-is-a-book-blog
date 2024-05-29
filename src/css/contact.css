@@ -1,0 +1,36 @@
+.contact-us1 {
+
+    padding: 40px;
+    margin-left: 0px;
+    margin-top: 100px;
+    position: absolute;
+    max-width: 800px;
+    
+  }
+  
+  .contact-us1 h2 {
+    margin-top: 0px;
+    font-weight: bold;
+    color: #333;
+    font-size:xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .contact-info1 {
+    margin-top: 20px;
+  }
+  
+  .contact-info1 p {
+    margin-bottom: 10px;
+  }
+  
+  .contact-info1 i {
+    /* font-size: 24px;
+    margin-right: 10px;
+    color: #666; */
+  }
+  
+  .contact-info1 span {
+    font-size: 18px;
+    color: #333;
+  }

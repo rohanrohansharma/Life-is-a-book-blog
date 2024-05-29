@@ -1,0 +1,11 @@
+.allblogs-container{
+    height: 100%;
+    width: 100vw;
+    overflow-x: hidden;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 2rem;
+    padding: 3rem;
+
+}
+

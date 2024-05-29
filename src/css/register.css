@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container1{
+    background-color: whitesmoke;
+    border: solid black;
+    border-radius: 20px;
+    width: 400px;
+    height: 500px;
+}
+
+
+
+.registername{
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 20px;
+}
+
+.btn-register{
+    height: 40px;
+    width: 350px;
+    color:black;
+    border-radius: 0px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: large;  
+    background-color:lightgreen;
+
+    transition: all 0.5s;
+}
+.btn-register:hover{
+    
+    background-color:white;
+    
+}
+
+
+
+.font-register{
+    font-size: x-large;
+    margin-left: 20px;
+    font-weight: lighter;
+}
+
+.text-register{
+    margin-left: 0px;
+    font-size: large;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 30px;
+    width:350px;
+}
+.text-register:hover{
+    border: 1px solid red;
+    
+}
+.colorChange{
+    background-color: lightblue;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin: 0 auto; */
+  }
+  .account-register{
+    text-align: center;
+    margin-top: 10px;
+  }
